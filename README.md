@@ -38,7 +38,7 @@
 ### 📫 Contact:
 
 <p>
-Twitter: <a href="https://twitter.com/DevClustr">@DevClustr</a><br>
+Twitter: <a href="https://twitter.com/nullteist">@nullteist</a><br>
 <span>Discord: aimless#9928</span>
 </p>
 
